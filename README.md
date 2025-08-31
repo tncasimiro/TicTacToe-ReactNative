@@ -12,7 +12,6 @@ A two-player Tic Tac Toe game where players alternate between "X" and "O" to mar
 - Clear indication of the current player
 - Automatic win detection
 - Reset game functionality
-- Colorful and attractive design
 - Different colors for "X" (red) and "O" (blue)
 
 ## Technologies Used
